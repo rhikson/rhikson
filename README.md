@@ -1,9 +1,8 @@
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhikson&show_icons=true&locale=en&count_private=true" alt="rhikson" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhikson&show_icons=true&locale=en&layout=compact" alt="rhikson"
-</p>
- 
+<img src="https://github-readme-stats.vercel.app/api?username=rhikson&show_icons=true&locale=en&count_private=true" alt="rhikson" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rhikson&layout=compact&custom_title=Rhikson%27s%20wakatime%20stats" alt="Rhikson's wakatime stats"/>
+
 ### Main skills:
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
